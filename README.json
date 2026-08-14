@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T08:52:58Z",
+            "last_commit": "2026-08-14T08:40:12Z",
             "owner": "Wilfred",
             "repo": "difftastic",
-            "stars": 25766
+            "stars": 25772
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T06:15:47Z",
+            "last_commit": "2026-08-14T06:13:12Z",
             "owner": "afnanenayet",
             "repo": "diffsitter",
             "stars": 2395
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-10T22:43:25Z",
             "owner": "GumTreeDiff",
             "repo": "gumtree",
-            "stars": 1329
+            "stars": 1330
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-02T00:01:16Z",
             "owner": "dandavison",
             "repo": "delta",
-            "stars": 31745
+            "stars": 31750
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-11T16:39:55Z",
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18082
+            "stars": 18080
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-02-08T15:02:54Z",
             "owner": "jeffkaufman",
             "repo": "icdiff",
-            "stars": 4385
+            "stars": 4386
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-04T18:42:40Z",
             "owner": "trailofbits",
             "repo": "graphtage",
-            "stars": 2477
+            "stars": 2478
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-04-22T19:22:57Z",
             "owner": "josephburnett",
             "repo": "jd",
-            "stars": 2293
+            "stars": 2294
           }
         },
         {
@@ -224,7 +224,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T19:43:50Z",
+            "last_commit": "2026-08-14T19:44:02Z",
             "owner": "homeport",
             "repo": "dyff",
             "stars": 1870
@@ -238,7 +238,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T08:42:18Z",
+            "last_commit": "2026-08-14T08:42:27Z",
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
             "stars": 1096
@@ -269,7 +269,7 @@
             "last_commit": "2026-05-27T02:55:16Z",
             "owner": "paulfitz",
             "repo": "daff",
-            "stars": 921
+            "stars": 922
           }
         },
         {
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:42:25.512Z",
+    "last_updated": "2026-08-14T23:57:49.440Z",
     "original_repository": "mmueller2012/awesome-diff-tools",
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
     "enhanced_repository": "enhansome/enhansome-diff-tools",
