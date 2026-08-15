@@ -19,7 +19,7 @@
             "last_commit": "2026-08-14T08:40:12Z",
             "owner": "Wilfred",
             "repo": "difftastic",
-            "stars": 25772
+            "stars": 25779
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T06:13:12Z",
+            "last_commit": "2026-08-15T05:23:55Z",
             "owner": "afnanenayet",
             "repo": "diffsitter",
-            "stars": 2395
+            "stars": 2394
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-02T00:01:16Z",
             "owner": "dandavison",
             "repo": "delta",
-            "stars": 31750
+            "stars": 31755
           }
         },
         {
@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "Perl",
-            "last_commit": "2026-08-11T16:39:55Z",
+            "last_commit": "2026-08-15T19:46:45Z",
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
             "stars": 18080
@@ -176,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-01-31T13:28:57Z",
+            "last_commit": "2026-08-15T21:29:13Z",
             "owner": "walles",
             "repo": "riff",
-            "stars": 522
+            "stars": 523
           }
         }
       ],
@@ -351,7 +351,7 @@
             "last_commit": "2023-02-12T08:06:13Z",
             "owner": "juhakivekas",
             "repo": "multidiff",
-            "stars": 308
+            "stars": 309
           }
         }
       ],
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:57:49.440Z",
+    "last_updated": "2026-08-15T23:54:25.828Z",
     "original_repository": "mmueller2012/awesome-diff-tools",
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
     "enhanced_repository": "enhansome/enhansome-diff-tools",
