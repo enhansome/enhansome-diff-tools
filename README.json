@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:40:12Z",
+            "last_commit": "2026-08-16T08:52:01Z",
             "owner": "Wilfred",
             "repo": "difftastic",
-            "stars": 25779
+            "stars": 25782
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T05:23:55Z",
+            "last_commit": "2026-08-16T05:27:55Z",
             "owner": "afnanenayet",
             "repo": "diffsitter",
-            "stars": 2394
+            "stars": 2395
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-02T00:01:16Z",
             "owner": "dandavison",
             "repo": "delta",
-            "stars": 31755
+            "stars": 31769
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "Perl",
-            "last_commit": "2026-08-15T19:46:45Z",
+            "last_commit": "2026-08-16T19:39:36Z",
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18080
+            "stars": 18081
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-02-08T15:02:54Z",
             "owner": "jeffkaufman",
             "repo": "icdiff",
-            "stars": 4386
+            "stars": 4387
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-05-20T09:53:44Z",
             "owner": "ymattw",
             "repo": "ydiff",
-            "stars": 930
+            "stars": 931
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-08-15T21:29:13Z",
             "owner": "walles",
             "repo": "riff",
-            "stars": 523
+            "stars": 524
           }
         }
       ],
@@ -227,7 +227,7 @@
             "last_commit": "2026-08-14T19:44:02Z",
             "owner": "homeport",
             "repo": "dyff",
-            "stars": 1870
+            "stars": 1871
           }
         },
         {
@@ -334,7 +334,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-07T13:16:04Z",
+            "last_commit": "2026-08-16T00:08:00Z",
             "owner": "JakeWharton",
             "repo": "diffuse",
             "stars": 2188
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:54:25.828Z",
+    "last_updated": "2026-08-16T23:53:48.115Z",
     "original_repository": "mmueller2012/awesome-diff-tools",
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
     "enhanced_repository": "enhansome/enhansome-diff-tools",
