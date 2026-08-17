@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T08:52:01Z",
+            "last_commit": "2026-08-17T23:08:07Z",
             "owner": "Wilfred",
             "repo": "difftastic",
-            "stars": 25782
+            "stars": 25788
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T05:27:55Z",
+            "last_commit": "2026-08-17T05:34:27Z",
             "owner": "afnanenayet",
             "repo": "diffsitter",
             "stars": 2395
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-02T00:01:16Z",
             "owner": "dandavison",
             "repo": "delta",
-            "stars": 31769
+            "stars": 31778
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "Perl",
-            "last_commit": "2026-08-16T19:39:36Z",
+            "last_commit": "2026-08-17T16:03:58Z",
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18081
+            "stars": 18080
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-06-27T05:25:05Z",
             "owner": "banga",
             "repo": "git-split-diffs",
-            "stars": 2746
+            "stars": 2745
           }
         },
         {
@@ -224,7 +224,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T19:44:02Z",
+            "last_commit": "2026-08-17T19:46:45Z",
             "owner": "homeport",
             "repo": "dyff",
             "stars": 1871
@@ -334,10 +334,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-16T00:08:00Z",
+            "last_commit": "2026-08-17T12:22:05Z",
             "owner": "JakeWharton",
             "repo": "diffuse",
-            "stars": 2188
+            "stars": 2187
           }
         },
         {
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:53:48.115Z",
+    "last_updated": "2026-08-17T23:56:11.783Z",
     "original_repository": "mmueller2012/awesome-diff-tools",
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
     "enhanced_repository": "enhansome/enhansome-diff-tools",
