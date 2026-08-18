@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T23:08:07Z",
+            "last_commit": "2026-08-18T08:49:15Z",
             "owner": "Wilfred",
             "repo": "difftastic",
-            "stars": 25788
+            "stars": 25789
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T05:34:27Z",
+            "last_commit": "2026-08-18T05:29:01Z",
             "owner": "afnanenayet",
             "repo": "diffsitter",
             "stars": 2395
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-02T00:01:16Z",
             "owner": "dandavison",
             "repo": "delta",
-            "stars": 31778
+            "stars": 31792
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "Perl",
-            "last_commit": "2026-08-17T16:03:58Z",
+            "last_commit": "2026-08-18T17:08:42Z",
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18080
+            "stars": 18081
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-04T18:42:40Z",
             "owner": "trailofbits",
             "repo": "graphtage",
-            "stars": 2478
+            "stars": 2479
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-04-22T19:22:57Z",
             "owner": "josephburnett",
             "repo": "jd",
-            "stars": 2294
+            "stars": 2295
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2026-08-17T19:46:45Z",
             "owner": "homeport",
             "repo": "dyff",
-            "stars": 1871
+            "stars": 1872
           }
         },
         {
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:56:11.783Z",
+    "last_updated": "2026-08-18T23:55:51.073Z",
     "original_repository": "mmueller2012/awesome-diff-tools",
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
     "enhanced_repository": "enhansome/enhansome-diff-tools",
