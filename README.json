@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T08:49:15Z",
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25794
+                "stars": 25800
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 24182799,
                 "language": "Java",
-                "last_commit": "2026-08-10T22:43:25Z",
+                "last_commit": "2026-08-19T22:35:05Z",
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
-                "stars": 1331
+                "stars": 1332
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-02T00:01:16Z",
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 31798
+                "stars": 31799
               }
             },
             {
@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 51071818,
                 "language": "Perl",
-                "last_commit": "2026-08-18T17:08:42Z",
+                "last_commit": "2026-08-19T18:49:08Z",
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
                 "stars": 18081
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-17T19:46:45Z",
             "owner": "homeport",
             "repo": "dyff",
-            "stars": 1873
+            "stars": 1874
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2026-08-14T08:42:27Z",
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
-            "stars": 1095
+            "stars": 1096
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2026-08-17T12:22:05Z",
             "owner": "JakeWharton",
             "repo": "diffuse",
-            "stars": 2187
+            "stars": 2186
           }
         },
         {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:23:33.640Z",
+    "last_updated": "2026-08-19T23:56:36.380Z",
     "original_repository": "mmueller2012/awesome-diff-tools",
     "original_repository_id": 568550476,
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
