@@ -1,189 +1,204 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "difftastic",
+              "description": "Terminal utility to generate side-by-side diffs, hides style changes and supports many languages, but doesn't detect moved code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162276894,
+                "language": "Rust",
+                "last_commit": "2026-08-18T08:49:15Z",
+                "owner": "Wilfred",
+                "repo": "difftastic",
+                "stars": 25794
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "diffsitter",
+              "description": "Terminal utility to generate unified diffs, hides style changes, but doesn't detect moved code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275508429,
+                "language": "Rust",
+                "last_commit": "2026-08-19T05:29:58Z",
+                "owner": "afnanenayet",
+                "repo": "diffsitter",
+                "stars": 2395
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gumtree",
+              "description": "Web/GUI/Text frontend to generate side-by-side diffs, hides style changes and detects moved code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24182799,
+                "language": "Java",
+                "last_commit": "2026-08-10T22:43:25Z",
+                "owner": "GumTreeDiff",
+                "repo": "gumtree",
+                "stars": 1331
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zograscope",
+              "description": "Terminal utility to generate side-by-side diffs, hides style changes, mostly focused on C/C++.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111816506,
+                "language": "C++",
+                "last_commit": "2026-03-21T11:20:13Z",
+                "owner": "xaizek",
+                "repo": "zograscope",
+                "stars": 56
+              }
+            }
+          ],
+          "description": "Programming language aware diffs that provide additional features like hiding syntax-only changes.",
+          "node_type": "group",
+          "title": "Semantic Diffs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "delta",
+              "description": "Pager for (git) diff, adds syntax highlighting, inline and side-by-side view, support for git blame and merge conflicts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193526915,
+                "language": "Rust",
+                "last_commit": "2026-08-02T00:01:16Z",
+                "owner": "dandavison",
+                "repo": "delta",
+                "stars": 31798
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "diff-so-fancy",
+              "description": "Pager for (git) diff, changes colors and highlights inline changes, various options to customize output format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51071818,
+                "language": "Perl",
+                "last_commit": "2026-08-18T17:08:42Z",
+                "owner": "so-fancy",
+                "repo": "diff-so-fancy",
+                "stars": 18081
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "icdiff",
+              "description": "Standalone application for side-by-side diffs with syntax highlighting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 812328,
+                "language": "Python",
+                "last_commit": "2026-02-08T15:02:54Z",
+                "owner": "jeffkaufman",
+                "repo": "icdiff",
+                "stars": 4387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "git-split-diffs",
+              "description": "Pager for (git) diff, displays changes like GitHub split diffs (side-by-side diffs) with syntax highlighting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 356674026,
+                "language": "TypeScript",
+                "last_commit": "2026-06-27T05:25:05Z",
+                "owner": "banga",
+                "repo": "git-split-diffs",
+                "stars": 2745
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ydiff",
+              "description": "Pager for git diff, supports unified and side-by-side view, highlights inline changes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7886632,
+                "language": "Python",
+                "last_commit": "2026-05-20T09:53:44Z",
+                "owner": "ymattw",
+                "repo": "ydiff",
+                "stars": 931
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dunk",
+              "description": "Postprocesses the output of git diff to generate side-by-side diffs, supports syntax highlighting and highlights inline changes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 477155901,
+                "language": "Python",
+                "last_commit": "2025-04-19T16:25:43Z",
+                "owner": "darrenburns",
+                "repo": "dunk",
+                "stars": 888
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "diffr",
+              "description": "Pager for git diff, changes colors and highlights inline changes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194538785,
+                "language": "Rust",
+                "last_commit": "2026-01-08T02:34:41Z",
+                "owner": "mookid",
+                "repo": "diffr",
+                "stars": 615
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "riff",
+              "description": "Wrapper around () highlighting which parts of lines that changed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32888004,
+                "language": "Rust",
+                "last_commit": "2026-08-15T21:29:13Z",
+                "owner": "walles",
+                "repo": "riff",
+                "stars": 523
+              }
+            }
+          ],
+          "description": "Wrappers that enhance the output of an existing diff tool.",
+          "node_type": "group",
+          "title": "Diff Enhancers"
+        }
+      ],
       "title": "Source Code"
-    },
-    {
-      "description": "Programming language aware diffs that provide additional features like hiding syntax-only changes.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "difftastic",
-          "description": "Terminal utility to generate side-by-side diffs, hides style changes and supports many languages, but doesn't detect moved code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T08:49:15Z",
-            "owner": "Wilfred",
-            "repo": "difftastic",
-            "stars": 25789
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "diffsitter",
-          "description": "Terminal utility to generate unified diffs, hides style changes, but doesn't detect moved code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T05:29:01Z",
-            "owner": "afnanenayet",
-            "repo": "diffsitter",
-            "stars": 2395
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gumtree",
-          "description": "Web/GUI/Text frontend to generate side-by-side diffs, hides style changes and detects moved code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-10T22:43:25Z",
-            "owner": "GumTreeDiff",
-            "repo": "gumtree",
-            "stars": 1330
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zograscope",
-          "description": "Terminal utility to generate side-by-side diffs, hides style changes, mostly focused on C/C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-03-21T11:20:13Z",
-            "owner": "xaizek",
-            "repo": "zograscope",
-            "stars": 56
-          }
-        }
-      ],
-      "title": "Semantic Diffs"
-    },
-    {
-      "description": "Wrappers that enhance the output of an existing diff tool.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "delta",
-          "description": "Pager for (git) diff, adds syntax highlighting, inline and side-by-side view, support for git blame and merge conflicts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-02T00:01:16Z",
-            "owner": "dandavison",
-            "repo": "delta",
-            "stars": 31792
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "diff-so-fancy",
-          "description": "Pager for (git) diff, changes colors and highlights inline changes, various options to customize output format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-08-18T17:08:42Z",
-            "owner": "so-fancy",
-            "repo": "diff-so-fancy",
-            "stars": 18081
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "icdiff",
-          "description": "Standalone application for side-by-side diffs with syntax highlighting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-08T15:02:54Z",
-            "owner": "jeffkaufman",
-            "repo": "icdiff",
-            "stars": 4387
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "git-split-diffs",
-          "description": "Pager for (git) diff, displays changes like GitHub split diffs (side-by-side diffs) with syntax highlighting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-27T05:25:05Z",
-            "owner": "banga",
-            "repo": "git-split-diffs",
-            "stars": 2745
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ydiff",
-          "description": "Pager for git diff, supports unified and side-by-side view, highlights inline changes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-20T09:53:44Z",
-            "owner": "ymattw",
-            "repo": "ydiff",
-            "stars": 931
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dunk",
-          "description": "Postprocesses the output of git diff to generate side-by-side diffs, supports syntax highlighting and highlights inline changes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-19T16:25:43Z",
-            "owner": "darrenburns",
-            "repo": "dunk",
-            "stars": 888
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "diffr",
-          "description": "Pager for git diff, changes colors and highlights inline changes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-01-08T02:34:41Z",
-            "owner": "mookid",
-            "repo": "diffr",
-            "stars": 615
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "riff",
-          "description": "Wrapper around () highlighting which parts of lines that changed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-15T21:29:13Z",
-            "owner": "walles",
-            "repo": "riff",
-            "stars": 524
-          }
-        }
-      ],
-      "title": "Diff Enhancers"
     },
     {
       "description": "Diff utilities for non-code based text formats.",
@@ -195,6 +210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 257655337,
             "language": "Python",
             "last_commit": "2026-08-04T18:42:40Z",
             "owner": "trailofbits",
@@ -209,11 +225,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72809829,
             "language": "Go",
             "last_commit": "2026-04-22T19:22:57Z",
             "owner": "josephburnett",
             "repo": "jd",
-            "stars": 2295
+            "stars": 2296
           }
         },
         {
@@ -223,11 +240,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124592092,
             "language": "Go",
             "last_commit": "2026-08-17T19:46:45Z",
             "owner": "homeport",
             "repo": "dyff",
-            "stars": 1872
+            "stars": 1873
           }
         },
         {
@@ -237,11 +255,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113924383,
             "language": "Java",
             "last_commit": "2026-08-14T08:42:27Z",
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
-            "stars": 1096
+            "stars": 1095
           }
         },
         {
@@ -251,6 +270,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214506285,
             "language": "Swift",
             "last_commit": "2026-03-08T11:37:35Z",
             "owner": "bloomberg",
@@ -265,6 +285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7568434,
             "language": "Java",
             "last_commit": "2026-05-27T02:55:16Z",
             "owner": "paulfitz",
@@ -279,6 +300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86617171,
             "language": "JavaScript",
             "last_commit": "2026-08-12T21:26:55Z",
             "owner": "josephfrazier",
@@ -299,6 +321,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64103823,
             "language": "Python",
             "last_commit": "2025-08-25T12:32:22Z",
             "owner": "djrobstep",
@@ -313,6 +336,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5290044,
             "language": "Java",
             "last_commit": "2024-01-03T08:40:39Z",
             "owner": "fordfrog",
@@ -333,6 +357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48683075,
             "language": "Kotlin",
             "last_commit": "2026-08-17T12:22:05Z",
             "owner": "JakeWharton",
@@ -347,6 +372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113815834,
             "language": "Python",
             "last_commit": "2023-02-12T08:06:13Z",
             "owner": "juhakivekas",
@@ -356,16 +382,12 @@
         }
       ],
       "title": "Binary Data"
-    },
-    {
-      "description": "Contributing is greatly welcomed! Please read the Contribution Guidelines before taking any action.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:55:51.073Z",
+    "last_updated": "2026-08-19T12:23:33.640Z",
     "original_repository": "mmueller2012/awesome-diff-tools",
+    "original_repository_id": 568550476,
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
     "enhanced_repository": "enhansome/enhansome-diff-tools",
     "enhanced_repository_description": null,
