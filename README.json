@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-23T12:03:29Z",
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25809
+                "stars": 25812
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 275508429,
                 "language": "Rust",
-                "last_commit": "2026-08-23T05:29:02Z",
+                "last_commit": "2026-08-24T05:37:31Z",
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
                 "stars": 2394
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-02T00:01:16Z",
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 31841
+                "stars": 31846
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-19T18:49:08Z",
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18082
+                "stars": 18083
               }
             },
             {
@@ -215,7 +215,7 @@
             "last_commit": "2026-08-04T18:42:40Z",
             "owner": "trailofbits",
             "repo": "graphtage",
-            "stars": 2479
+            "stars": 2478
           }
         },
         {
@@ -359,10 +359,10 @@
             "archived": false,
             "id": 48683075,
             "language": "Kotlin",
-            "last_commit": "2026-08-20T19:43:49Z",
+            "last_commit": "2026-08-24T05:54:22Z",
             "owner": "JakeWharton",
             "repo": "diffuse",
-            "stars": 2185
+            "stars": 2184
           }
         },
         {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:55:06.775Z",
+    "last_updated": "2026-08-24T14:41:13.895Z",
     "original_repository": "mmueller2012/awesome-diff-tools",
     "original_repository_id": 568550476,
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
