@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 162276894,
                 "language": "Rust",
-                "last_commit": "2026-08-23T12:03:29Z",
+                "last_commit": "2026-08-25T10:57:05Z",
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25816
+                "stars": 25819
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 275508429,
                 "language": "Rust",
-                "last_commit": "2026-08-25T05:31:03Z",
+                "last_commit": "2026-08-25T11:21:32Z",
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
                 "stars": 2394
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-02T00:01:16Z",
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 31852
+                "stars": 31855
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-15T21:29:13Z",
                 "owner": "walles",
                 "repo": "riff",
-                "stars": 523
+                "stars": 524
               }
             }
           ],
@@ -359,7 +359,7 @@
             "archived": false,
             "id": 48683075,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T05:54:22Z",
+            "last_commit": "2026-08-25T15:01:09Z",
             "owner": "JakeWharton",
             "repo": "diffuse",
             "stars": 2184
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:59.456Z",
+    "last_updated": "2026-08-25T23:57:40.871Z",
     "original_repository": "mmueller2012/awesome-diff-tools",
     "original_repository_id": 568550476,
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
