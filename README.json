@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 275508429,
                 "language": "Rust",
-                "last_commit": "2026-08-24T05:37:31Z",
+                "last_commit": "2026-08-25T05:31:03Z",
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
                 "stars": 2394
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 24182799,
                 "language": "Java",
-                "last_commit": "2026-08-24T22:34:49Z",
+                "last_commit": "2026-08-25T06:18:45Z",
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
                 "stars": 1332
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-19T18:49:08Z",
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18083
+                "stars": 18082
               }
             },
             {
@@ -230,7 +230,7 @@
             "last_commit": "2026-04-22T19:22:57Z",
             "owner": "josephburnett",
             "repo": "jd",
-            "stars": 2296
+            "stars": 2297
           }
         },
         {
@@ -290,7 +290,7 @@
             "last_commit": "2026-05-27T02:55:16Z",
             "owner": "paulfitz",
             "repo": "daff",
-            "stars": 922
+            "stars": 923
           }
         },
         {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:55:25.950Z",
+    "last_updated": "2026-08-25T06:32:59.456Z",
     "original_repository": "mmueller2012/awesome-diff-tools",
     "original_repository_id": 568550476,
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
