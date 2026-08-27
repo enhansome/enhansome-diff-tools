@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-25T10:57:05Z",
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25819
+                "stars": 25821
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 275508429,
                 "language": "Rust",
-                "last_commit": "2026-08-25T11:21:32Z",
+                "last_commit": "2026-08-26T05:33:59Z",
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
-                "stars": 2394
+                "stars": 2395
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-02T00:01:16Z",
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 31855
+                "stars": 31868
               }
             },
             {
@@ -260,7 +260,7 @@
             "last_commit": "2026-08-14T08:42:27Z",
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
-            "stars": 1096
+            "stars": 1095
           }
         },
         {
@@ -359,10 +359,10 @@
             "archived": false,
             "id": 48683075,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T15:01:09Z",
+            "last_commit": "2026-08-26T18:36:26Z",
             "owner": "JakeWharton",
             "repo": "diffuse",
-            "stars": 2184
+            "stars": 2185
           }
         },
         {
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:57:40.871Z",
+    "last_updated": "2026-08-27T05:01:02.498Z",
     "original_repository": "mmueller2012/awesome-diff-tools",
     "original_repository_id": 568550476,
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
