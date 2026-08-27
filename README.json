@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-02T00:01:16Z",
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 31868
+                "stars": 31869
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-19T18:49:08Z",
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18082
+                "stars": 18081
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2025-04-19T16:25:43Z",
                 "owner": "darrenburns",
                 "repo": "dunk",
-                "stars": 888
+                "stars": 889
               }
             },
             {
@@ -215,7 +215,7 @@
             "last_commit": "2026-08-04T18:42:40Z",
             "owner": "trailofbits",
             "repo": "graphtage",
-            "stars": 2478
+            "stars": 2477
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-17T19:46:45Z",
             "owner": "homeport",
             "repo": "dyff",
-            "stars": 1876
+            "stars": 1877
           }
         },
         {
@@ -257,7 +257,7 @@
             "archived": false,
             "id": 113924383,
             "language": "Java",
-            "last_commit": "2026-08-14T08:42:27Z",
+            "last_commit": "2026-08-27T08:42:46Z",
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
             "stars": 1095
@@ -385,9 +385,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:01:02.498Z",
-    "original_repository": "mmueller2012/awesome-diff-tools",
-    "original_repository_id": 568550476,
+    "last_updated": "2026-08-27T11:35:19.656Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 568550476,
+      "language": null,
+      "last_commit": "2024-05-03T03:18:05Z",
+      "owner": "mmueller2012",
+      "repo": "awesome-diff-tools",
+      "stars": 106
+    },
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
     "enhanced_repository": "enhansome/enhansome-diff-tools",
     "enhanced_repository_description": null,

@@ -37,12 +37,12 @@ Programming language aware diffs that provide additional features like hiding sy
 
 Wrappers that enhance the output of an existing diff tool.
 
-* [delta](https://github.com/dandavison/delta) ⭐ 31,868 | 🐛 429 | 🌐 Rust | 📅 2026-08-02 - Pager for (git) diff, adds syntax highlighting, inline and side-by-side view, support for git blame and merge conflicts.
-* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,082 | 🐛 4 | 🌐 Perl | 📅 2026-08-19 - Pager for (git) diff, changes colors and highlights inline changes, various options to customize output format.
+* [delta](https://github.com/dandavison/delta) ⭐ 31,869 | 🐛 429 | 🌐 Rust | 📅 2026-08-02 - Pager for (git) diff, adds syntax highlighting, inline and side-by-side view, support for git blame and merge conflicts.
+* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,081 | 🐛 4 | 🌐 Perl | 📅 2026-08-19 - Pager for (git) diff, changes colors and highlights inline changes, various options to customize output format.
 * [icdiff](https://github.com/jeffkaufman/icdiff) ⭐ 4,388 | 🐛 25 | 🌐 Python | 📅 2026-02-08 - Standalone application for side-by-side diffs with syntax highlighting.
 * [git-split-diffs](https://github.com/banga/git-split-diffs) ⭐ 2,745 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-20 - Pager for (git) diff, displays changes like GitHub split diffs (side-by-side diffs) with syntax highlighting.
 * [ydiff](https://github.com/ymattw/ydiff) ⭐ 931 | 🐛 1 | 🌐 Python | 📅 2026-05-20 - Pager for git diff, supports unified and side-by-side view, highlights inline changes.
-* [dunk](https://github.com/darrenburns/dunk) ⭐ 888 | 🐛 22 | 🌐 Python | 📅 2025-04-19 - Postprocesses the output of git diff to generate side-by-side diffs, supports syntax highlighting and highlights inline changes.
+* [dunk](https://github.com/darrenburns/dunk) ⭐ 889 | 🐛 22 | 🌐 Python | 📅 2025-04-19 - Postprocesses the output of git diff to generate side-by-side diffs, supports syntax highlighting and highlights inline changes.
 * [diffr](https://github.com/mookid/diffr) ⭐ 613 | 🐛 14 | 🌐 Rust | 📅 2026-01-08 - Pager for git diff, changes colors and highlights inline changes.
 * [riff](https://github.com/walles/riff) ⭐ 524 | 🐛 4 | 🌐 Rust | 📅 2026-08-15 - Wrapper around (`git`) `diff` highlighting which parts of lines that changed.
 
@@ -50,10 +50,10 @@ Wrappers that enhance the output of an existing diff tool.
 
 Diff utilities for non-code based text formats.
 
-* [Graphtage](https://github.com/trailofbits/graphtage) ⭐ 2,478 | 🐛 29 | 🌐 Python | 📅 2026-08-04 - Semantic diff for JSON, JSON5, XML, HTML, YAML, CSV.
+* [Graphtage](https://github.com/trailofbits/graphtage) ⭐ 2,477 | 🐛 29 | 🌐 Python | 📅 2026-08-04 - Semantic diff for JSON, JSON5, XML, HTML, YAML, CSV.
 * [jd](https://github.com/josephburnett/jd) ⭐ 2,297 | 🐛 20 | 🌐 Go | 📅 2026-04-22 - Creates diffs for JSON/YAML files, also supports patching.
-* [dyff](https://github.com/homeport/dyff) ⭐ 1,876 | 🐛 69 | 🌐 Go | 📅 2026-08-17 - Pager for git diff (or standalone) for YAML/JSON, enhances display of changes and their location.
-* [OpenAPI-diff](https://github.com/OpenAPITools/openapi-diff) ⭐ 1,095 | 🐛 81 | 🌐 Java | 📅 2026-08-14 - Utility for comparing two OpenAPI specifications.
+* [dyff](https://github.com/homeport/dyff) ⭐ 1,877 | 🐛 69 | 🌐 Go | 📅 2026-08-17 - Pager for git diff (or standalone) for YAML/JSON, enhances display of changes and their location.
+* [OpenAPI-diff](https://github.com/OpenAPITools/openapi-diff) ⭐ 1,095 | 🐛 82 | 🌐 Java | 📅 2026-08-27 - Utility for comparing two OpenAPI specifications.
 * [xcdiff](https://github.com/bloomberg/xcdiff) ⭐ 961 | 🐛 10 | 🌐 Swift | 📅 2026-03-08 - Terminal utility to find differences between two .xcodeproj project files.
 * [daff](https://github.com/paulfitz/daff) ⭐ 923 | 🐛 47 | 🌐 Java | 📅 2026-05-27 - Library for comparing tables format such as csv files.
 * [prettier-diff](https://github.com/josephfrazier/prettier-diff) ⭐ 36 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-12 - Wrapper around git diff for JavaScript/JSON, preprocesses the data with a prettifier.
