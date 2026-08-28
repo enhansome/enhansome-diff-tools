@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 162276894,
                 "language": "Rust",
-                "last_commit": "2026-08-25T10:57:05Z",
+                "last_commit": "2026-08-27T21:23:17Z",
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25821
-              }
+                "stars": 25826
+              },
+              "first_seen": "2026-08-28T07:04:12.918Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 275508429,
                 "language": "Rust",
-                "last_commit": "2026-08-26T05:33:59Z",
+                "last_commit": "2026-08-27T16:08:45Z",
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
                 "stars": 2395
-              }
+              },
+              "first_seen": "2026-08-28T07:04:12.918Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-25T06:18:45Z",
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
-                "stars": 1332
-              }
+                "stars": 1334
+              },
+              "first_seen": "2026-08-28T07:04:12.918Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "xaizek",
                 "repo": "zograscope",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T07:04:12.918Z"
             }
           ],
           "description": "Programming language aware diffs that provide additional features like hiding syntax-only changes.",
@@ -84,8 +88,9 @@
                 "last_commit": "2026-08-02T00:01:16Z",
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 31869
-              }
+                "stars": 31885
+              },
+              "first_seen": "2026-08-28T07:04:12.918Z"
             },
             {
               "node_type": "item",
@@ -99,8 +104,9 @@
                 "last_commit": "2026-08-19T18:49:08Z",
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18081
-              }
+                "stars": 18082
+              },
+              "first_seen": "2026-08-28T07:04:12.918Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "jeffkaufman",
                 "repo": "icdiff",
                 "stars": 4388
-              }
+              },
+              "first_seen": "2026-08-28T07:04:12.918Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "banga",
                 "repo": "git-split-diffs",
                 "stars": 2745
-              }
+              },
+              "first_seen": "2026-08-28T07:04:12.918Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "ymattw",
                 "repo": "ydiff",
                 "stars": 931
-              }
+              },
+              "first_seen": "2026-08-28T07:04:12.918Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "darrenburns",
                 "repo": "dunk",
                 "stars": 889
-              }
+              },
+              "first_seen": "2026-08-28T07:04:12.918Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "mookid",
                 "repo": "diffr",
                 "stars": 613
-              }
+              },
+              "first_seen": "2026-08-28T07:04:12.918Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "walles",
                 "repo": "riff",
                 "stars": 524
-              }
+              },
+              "first_seen": "2026-08-28T07:04:12.918Z"
             }
           ],
           "description": "Wrappers that enhance the output of an existing diff tool.",
@@ -216,7 +228,8 @@
             "owner": "trailofbits",
             "repo": "graphtage",
             "stars": 2477
-          }
+          },
+          "first_seen": "2026-08-28T07:04:12.918Z"
         },
         {
           "node_type": "item",
@@ -231,7 +244,8 @@
             "owner": "josephburnett",
             "repo": "jd",
             "stars": 2297
-          }
+          },
+          "first_seen": "2026-08-28T07:04:12.918Z"
         },
         {
           "node_type": "item",
@@ -245,8 +259,9 @@
             "last_commit": "2026-08-17T19:46:45Z",
             "owner": "homeport",
             "repo": "dyff",
-            "stars": 1877
-          }
+            "stars": 1878
+          },
+          "first_seen": "2026-08-28T07:04:12.918Z"
         },
         {
           "node_type": "item",
@@ -260,8 +275,9 @@
             "last_commit": "2026-08-27T08:42:46Z",
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
-            "stars": 1095
-          }
+            "stars": 1096
+          },
+          "first_seen": "2026-08-28T07:04:12.918Z"
         },
         {
           "node_type": "item",
@@ -276,7 +292,8 @@
             "owner": "bloomberg",
             "repo": "xcdiff",
             "stars": 961
-          }
+          },
+          "first_seen": "2026-08-28T07:04:12.918Z"
         },
         {
           "node_type": "item",
@@ -291,7 +308,8 @@
             "owner": "paulfitz",
             "repo": "daff",
             "stars": 923
-          }
+          },
+          "first_seen": "2026-08-28T07:04:12.918Z"
         },
         {
           "node_type": "item",
@@ -306,7 +324,8 @@
             "owner": "josephfrazier",
             "repo": "prettier-diff",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T07:04:12.918Z"
         }
       ],
       "title": "Other Text Formats"
@@ -327,7 +346,8 @@
             "owner": "djrobstep",
             "repo": "migra",
             "stars": 3050
-          }
+          },
+          "first_seen": "2026-08-28T07:04:12.918Z"
         },
         {
           "node_type": "item",
@@ -342,7 +362,8 @@
             "owner": "fordfrog",
             "repo": "apgdiff",
             "stars": 378
-          }
+          },
+          "first_seen": "2026-08-28T07:04:12.918Z"
         }
       ],
       "title": "Databases"
@@ -359,11 +380,12 @@
             "archived": false,
             "id": 48683075,
             "language": "Kotlin",
-            "last_commit": "2026-08-26T18:36:26Z",
+            "last_commit": "2026-08-27T19:45:38Z",
             "owner": "JakeWharton",
             "repo": "diffuse",
             "stars": 2185
-          }
+          },
+          "first_seen": "2026-08-28T07:04:12.918Z"
         },
         {
           "node_type": "item",
@@ -378,14 +400,15 @@
             "owner": "juhakivekas",
             "repo": "multidiff",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-28T07:04:12.918Z"
         }
       ],
       "title": "Binary Data"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:19.656Z",
+    "last_updated": "2026-08-28T07:04:12.918Z",
     "original_repository_info": {
       "archived": false,
       "id": 568550476,
