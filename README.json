@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a structural diff that understands syntax 🟥🟩",
+                "homepage": "https://difftastic.wilfred.me.uk/",
                 "id": 162276894,
                 "language": "Rust",
-                "last_commit": "2026-08-27T21:23:17Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T09:31:44Z",
+                "open_issues": 296,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25826
+                "stars": 25832,
+                "topics": [
+                  "diff",
+                  "tree-sitter"
+                ]
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
             },
@@ -28,12 +36,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tree-sitter based AST difftool to get meaningful semantic diffs",
+                "homepage": null,
                 "id": 275508429,
                 "language": "Rust",
-                "last_commit": "2026-08-27T16:08:45Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T17:10:44Z",
+                "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
-                "stars": 2395
+                "stars": 2396,
+                "topics": [
+                  "ast",
+                  "diff",
+                  "parser",
+                  "rust",
+                  "tree-sitter"
+                ]
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
             },
@@ -44,12 +63,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An awesome code differencing tool",
+                "homepage": "https://github.com/GumTreeDiff/gumtree/wiki",
                 "id": 24182799,
                 "language": "Java",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-25T06:18:45Z",
+                "open_issues": 22,
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
-                "stars": 1334
+                "stars": 1334,
+                "topics": [
+                  "abstract-syntax-tree",
+                  "diff",
+                  "gumtree"
+                ]
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
             },
@@ -60,12 +88,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mainly a syntax-aware diff that also provides a number of additional tools.",
+                "homepage": null,
                 "id": 111816506,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-21T11:20:13Z",
+                "open_issues": 1,
                 "owner": "xaizek",
                 "repo": "zograscope",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "agpl",
+                  "agplv3",
+                  "c",
+                  "command-line-app",
+                  "command-line-tool",
+                  "command-line-tools",
+                  "cpp",
+                  "cpp11",
+                  "diff",
+                  "diffing",
+                  "make",
+                  "makefile",
+                  "qt",
+                  "qt5",
+                  "qt5-gui",
+                  "syntax-aware"
+                ]
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
             }
@@ -83,12 +133,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output",
+                "homepage": "https://dandavison.github.io/delta/",
                 "id": 193526915,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-02T00:01:16Z",
+                "open_issues": 431,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 31885
+                "stars": 31905,
+                "topics": [
+                  "color-themes",
+                  "delta",
+                  "diff",
+                  "git",
+                  "git-delta",
+                  "pager",
+                  "rust",
+                  "syntax-highlighter"
+                ]
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
             },
@@ -99,12 +163,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make your diffs human readable for improved code quality and faster defect detection. :tada:",
+                "homepage": null,
                 "id": 51071818,
                 "language": "Perl",
+                "license": "MIT",
                 "last_commit": "2026-08-19T18:49:08Z",
+                "open_issues": 4,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18082
+                "stars": 18082,
+                "topics": [
+                  "diff",
+                  "diff-highlight",
+                  "diffs",
+                  "fancy",
+                  "git",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
             },
@@ -115,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "improved colored diff",
+                "homepage": "http://www.jefftk.com/icdiff",
                 "id": 812328,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-08T15:02:54Z",
+                "open_issues": 25,
                 "owner": "jeffkaufman",
                 "repo": "icdiff",
-                "stars": 4388
+                "stars": 4388,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
             },
@@ -131,12 +212,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Syntax highlighted side-by-side diffs in your terminal",
+                "homepage": null,
                 "id": 356674026,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T07:27:08Z",
+                "open_issues": 12,
                 "owner": "banga",
                 "repo": "git-split-diffs",
-                "stars": 2745
+                "stars": 2745,
+                "topics": [
+                  "diffs",
+                  "difftool",
+                  "git",
+                  "github",
+                  "split-diffs",
+                  "syntax-highlighting",
+                  "visual-studio-code"
+                ]
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
             },
@@ -147,12 +241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "View colored, incremental diff in workspace or from stdin, side by side and auto paged.",
+                "homepage": null,
                 "id": 7886632,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-20T09:53:44Z",
+                "open_issues": 1,
                 "owner": "ymattw",
                 "repo": "ydiff",
-                "stars": 931
+                "stars": 931,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
             },
@@ -163,12 +262,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prettier git diffs in the terminal  🎨",
+                "homepage": null,
                 "id": 477155901,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-19T16:25:43Z",
+                "open_issues": 22,
                 "owner": "darrenburns",
                 "repo": "dunk",
-                "stars": 889
+                "stars": 889,
+                "topics": [
+                  "cli",
+                  "diff",
+                  "git",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
             },
@@ -179,12 +288,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another diff highlighting tool",
+                "homepage": null,
                 "id": 194538785,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-01-08T02:34:41Z",
+                "open_issues": 14,
                 "owner": "mookid",
                 "repo": "diffr",
-                "stars": 613
+                "stars": 613,
+                "topics": [
+                  "code-review",
+                  "console",
+                  "diff",
+                  "git"
+                ]
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
             },
@@ -195,12 +314,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A syntax highter for diffs, clarifying which parts of lines have changed",
+                "homepage": null,
                 "id": 32888004,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-15T21:29:13Z",
+                "open_issues": 4,
                 "owner": "walles",
                 "repo": "riff",
-                "stars": 524
+                "stars": 524,
+                "topics": [
+                  "console-color",
+                  "console-tool",
+                  "diff",
+                  "git-diff",
+                  "highlighting",
+                  "refiner",
+                  "riff"
+                ]
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
             }
@@ -222,12 +354,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.",
+            "homepage": null,
             "id": 257655337,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-04T18:42:40Z",
+            "open_issues": 29,
             "owner": "trailofbits",
             "repo": "graphtage",
-            "stars": 2477
+            "stars": 2479,
+            "topics": [
+              "command-line-tool",
+              "diff",
+              "graph-algorithms",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "library",
+              "python",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
         },
@@ -238,12 +384,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON diff and patch",
+            "homepage": null,
             "id": 72809829,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-22T19:22:57Z",
+            "open_issues": 20,
             "owner": "josephburnett",
             "repo": "jd",
-            "stars": 2297
+            "stars": 2297,
+            "topics": [
+              "diff",
+              "json",
+              "patch",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
         },
@@ -254,12 +410,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "/ˈdʏf/ - diff tool for YAML files, and sometimes JSON",
+            "homepage": null,
             "id": 124592092,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-17T19:46:45Z",
+            "open_issues": 69,
             "owner": "homeport",
             "repo": "dyff",
-            "stars": 1878
+            "stars": 1878,
+            "topics": [
+              "bosh",
+              "diff",
+              "dyff",
+              "go-patch",
+              "golang",
+              "json",
+              "json2yaml",
+              "spruce",
+              "tool",
+              "yaml",
+              "yaml-files",
+              "yaml2json"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
         },
@@ -270,12 +444,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility for comparing two OpenAPI specifications.",
+            "homepage": null,
             "id": 113924383,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T08:42:46Z",
+            "open_issues": 82,
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
-            "stars": 1096
+            "stars": 1096,
+            "topics": [
+              "api",
+              "diff",
+              "openapi",
+              "openapi-diff",
+              "openapi-specification",
+              "openapi3",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
         },
@@ -286,12 +473,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool which helps you diff xcodeproj files.",
+            "homepage": null,
             "id": 214506285,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-08T11:37:35Z",
+            "open_issues": 10,
             "owner": "bloomberg",
             "repo": "xcdiff",
-            "stars": 961
+            "stars": 961,
+            "topics": [
+              "diff",
+              "swift",
+              "xcode",
+              "xcodeproj",
+              "xcodeproject"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
         },
@@ -302,12 +500,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "align and compare tables",
+            "homepage": "https://paulfitz.github.io/daff",
             "id": 7568434,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-05-27T02:55:16Z",
+            "open_issues": 47,
             "owner": "paulfitz",
             "repo": "daff",
-            "stars": 923
+            "stars": 923,
+            "topics": [
+              "comparing-tables",
+              "csv",
+              "csv-diffs",
+              "diff",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
         },
@@ -318,12 +527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "`git diff` wrapper for semantic JavaScript/JSON diffs",
+            "homepage": "https://npm.im/prettier-diff",
             "id": 86617171,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-12T21:26:55Z",
+            "open_issues": 4,
             "owner": "josephfrazier",
             "repo": "prettier-diff",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
         }
@@ -340,12 +554,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DEPRECATED: Like diff but for PostgreSQL schemas",
+            "homepage": null,
             "id": 64103823,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2025-08-25T12:32:22Z",
+            "open_issues": 88,
             "owner": "djrobstep",
             "repo": "migra",
-            "stars": 3050
+            "stars": 3051,
+            "topics": [
+              "developer-experience",
+              "developer-tools",
+              "postgresql",
+              "python",
+              "schema-changes",
+              "schema-migrations"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
         },
@@ -356,12 +582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Another PostgreSQL Diff Tool",
+            "homepage": "http://www.apgdiff.com",
             "id": 5290044,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-01-03T08:40:39Z",
+            "open_issues": 129,
             "owner": "fordfrog",
             "repo": "apgdiff",
-            "stars": 378
+            "stars": 378,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
         }
@@ -378,12 +609,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Diffuse is a tool for diffing APKs, AABs, AARs, and JARs",
+            "homepage": null,
             "id": 48683075,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:45:38Z",
+            "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
-            "stars": 2185
+            "stars": 2185,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
         },
@@ -394,12 +630,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Binary data diffing for multiple objects or streams of data",
+            "homepage": null,
             "id": 113815834,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-12T08:06:13Z",
+            "open_issues": 5,
             "owner": "juhakivekas",
             "repo": "multidiff",
-            "stars": 309
+            "stars": 309,
+            "topics": [
+              "diff",
+              "diffing",
+              "hexdump",
+              "packet-analyser",
+              "packet-analysis",
+              "packet-analyzer",
+              "visualizer"
+            ]
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
         }
@@ -408,15 +657,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:04:12.918Z",
+    "last_updated": "2026-08-29T04:29:51.251Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome tools that show differences between files and folders.",
+      "homepage": null,
       "id": 568550476,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-05-03T03:18:05Z",
+      "open_issues": 4,
       "owner": "mmueller2012",
       "repo": "awesome-diff-tools",
-      "stars": 106
+      "stars": 106,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "diff",
+        "diffs",
+        "semantic-diff"
+      ]
     },
     "original_repository_sha": "501e7e4589721cc44701644e92d9dc5e9f78b9d9",
     "enhanced_repository": "enhansome/enhansome-diff-tools",
