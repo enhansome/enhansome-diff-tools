@@ -142,7 +142,7 @@
                 "open_issues": 431,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 31905,
+                "stars": 31907,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -614,8 +614,8 @@
             "id": 48683075,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T19:45:38Z",
-            "open_issues": 27,
+            "last_commit": "2026-08-29T04:49:21Z",
+            "open_issues": 29,
             "owner": "JakeWharton",
             "repo": "diffuse",
             "stars": 2185,
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:29:51.251Z",
+    "last_updated": "2026-08-29T04:56:52.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",

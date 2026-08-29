@@ -37,7 +37,7 @@ Programming language aware diffs that provide additional features like hiding sy
 
 Wrappers that enhance the output of an existing diff tool.
 
-* [delta](https://github.com/dandavison/delta) ⭐ 31,905 | 🐛 431 | 🌐 Rust | 📅 2026-08-02 - Pager for (git) diff, adds syntax highlighting, inline and side-by-side view, support for git blame and merge conflicts.
+* [delta](https://github.com/dandavison/delta) ⭐ 31,907 | 🐛 431 | 🌐 Rust | 📅 2026-08-02 - Pager for (git) diff, adds syntax highlighting, inline and side-by-side view, support for git blame and merge conflicts.
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,082 | 🐛 4 | 🌐 Perl | 📅 2026-08-19 - Pager for (git) diff, changes colors and highlights inline changes, various options to customize output format.
 * [icdiff](https://github.com/jeffkaufman/icdiff) ⭐ 4,388 | 🐛 25 | 🌐 Python | 📅 2026-02-08 - Standalone application for side-by-side diffs with syntax highlighting.
 * [git-split-diffs](https://github.com/banga/git-split-diffs) ⭐ 2,745 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-20 - Pager for (git) diff, displays changes like GitHub split diffs (side-by-side diffs) with syntax highlighting.
@@ -78,7 +78,7 @@ Diff utilities to compare the content of PDF files.
 
 Diff utilities to compare binary data.
 
-* [diffuse](https://github.com/JakeWharton/diffuse) ⭐ 2,185 | 🐛 27 | 🌐 Kotlin | 📅 2026-08-27 - Compares the content of APKs, AABs, AARs, and JARs.
+* [diffuse](https://github.com/JakeWharton/diffuse) ⭐ 2,185 | 🐛 29 | 🌐 Kotlin | 📅 2026-08-29 - Compares the content of APKs, AABs, AARs, and JARs.
 * [multidiff](https://github.com/juhakivekas/multidiff) ⭐ 309 | 🐛 5 | 🌐 Python | 📅 2023-02-12 - Utility to diff multiple binary objects or streams of data.
 * [VBinDiff](https://www.cjmweb.net/vbindiff/) - Side by side comparison of binary data in hex and ascii format.
 
