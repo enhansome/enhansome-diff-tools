@@ -21,7 +21,7 @@
                 "open_issues": 296,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25832,
+                "stars": 25839,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-28T17:10:44Z",
+                "last_commit": "2026-08-29T11:29:22Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -139,10 +139,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-02T00:01:16Z",
-                "open_issues": 431,
+                "open_issues": 432,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 31907,
+                "stars": 31977,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 4,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18082,
+                "stars": 18083,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -200,7 +200,7 @@
                 "open_issues": 25,
                 "owner": "jeffkaufman",
                 "repo": "icdiff",
-                "stars": 4388,
+                "stars": 4387,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
@@ -614,8 +614,8 @@
             "id": 48683075,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:49:21Z",
-            "open_issues": 29,
+            "last_commit": "2026-08-29T13:24:00Z",
+            "open_issues": 28,
             "owner": "JakeWharton",
             "repo": "diffuse",
             "stars": 2185,
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:56:52.169Z",
+    "last_updated": "2026-08-30T01:38:14.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",

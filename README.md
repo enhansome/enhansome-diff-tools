@@ -27,8 +27,8 @@ The most commonly used tools to display changes between two versions of a source
 
 Programming language aware diffs that provide additional features like hiding syntax-only changes.
 
-* [difftastic](https://github.com/Wilfred/difftastic) ⭐ 25,832 | 🐛 296 | 🌐 Rust | 📅 2026-08-28 - Terminal utility to generate side-by-side diffs, hides style changes and supports many languages, but doesn't detect moved code.
-* [diffsitter](https://github.com/afnanenayet/diffsitter) ⭐ 2,396 | 🐛 34 | 🌐 Rust | 📅 2026-08-28 - Terminal utility to generate unified diffs, hides style changes, but doesn't detect moved code.
+* [difftastic](https://github.com/Wilfred/difftastic) ⭐ 25,839 | 🐛 296 | 🌐 Rust | 📅 2026-08-28 - Terminal utility to generate side-by-side diffs, hides style changes and supports many languages, but doesn't detect moved code.
+* [diffsitter](https://github.com/afnanenayet/diffsitter) ⭐ 2,396 | 🐛 34 | 🌐 Rust | 📅 2026-08-29 - Terminal utility to generate unified diffs, hides style changes, but doesn't detect moved code.
 * [gumtree](https://github.com/GumTreeDiff/gumtree) ⭐ 1,334 | 🐛 22 | 🌐 Java | 📅 2026-08-25 - Web/GUI/Text frontend to generate side-by-side diffs, hides style changes and detects moved code.
 * [zograscope](https://github.com/xaizek/zograscope) ⭐ 56 | 🐛 1 | 🌐 C++ | 📅 2026-03-21 - Terminal utility to generate side-by-side diffs, hides style changes, mostly focused on C/C++.
 * [SemanticDiff](https://semanticdiff.com) - VS Code extension/GitHub App to generate side-by-side diffs, hides style changes, detects moved code blocks and simple refactorings.
@@ -37,9 +37,9 @@ Programming language aware diffs that provide additional features like hiding sy
 
 Wrappers that enhance the output of an existing diff tool.
 
-* [delta](https://github.com/dandavison/delta) ⭐ 31,907 | 🐛 431 | 🌐 Rust | 📅 2026-08-02 - Pager for (git) diff, adds syntax highlighting, inline and side-by-side view, support for git blame and merge conflicts.
-* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,082 | 🐛 4 | 🌐 Perl | 📅 2026-08-19 - Pager for (git) diff, changes colors and highlights inline changes, various options to customize output format.
-* [icdiff](https://github.com/jeffkaufman/icdiff) ⭐ 4,388 | 🐛 25 | 🌐 Python | 📅 2026-02-08 - Standalone application for side-by-side diffs with syntax highlighting.
+* [delta](https://github.com/dandavison/delta) ⭐ 31,977 | 🐛 432 | 🌐 Rust | 📅 2026-08-02 - Pager for (git) diff, adds syntax highlighting, inline and side-by-side view, support for git blame and merge conflicts.
+* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,083 | 🐛 4 | 🌐 Perl | 📅 2026-08-19 - Pager for (git) diff, changes colors and highlights inline changes, various options to customize output format.
+* [icdiff](https://github.com/jeffkaufman/icdiff) ⭐ 4,387 | 🐛 25 | 🌐 Python | 📅 2026-02-08 - Standalone application for side-by-side diffs with syntax highlighting.
 * [git-split-diffs](https://github.com/banga/git-split-diffs) ⭐ 2,745 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-20 - Pager for (git) diff, displays changes like GitHub split diffs (side-by-side diffs) with syntax highlighting.
 * [ydiff](https://github.com/ymattw/ydiff) ⭐ 931 | 🐛 1 | 🌐 Python | 📅 2026-05-20 - Pager for git diff, supports unified and side-by-side view, highlights inline changes.
 * [dunk](https://github.com/darrenburns/dunk) ⭐ 889 | 🐛 22 | 🌐 Python | 📅 2025-04-19 - Postprocesses the output of git diff to generate side-by-side diffs, supports syntax highlighting and highlights inline changes.
@@ -78,7 +78,7 @@ Diff utilities to compare the content of PDF files.
 
 Diff utilities to compare binary data.
 
-* [diffuse](https://github.com/JakeWharton/diffuse) ⭐ 2,185 | 🐛 29 | 🌐 Kotlin | 📅 2026-08-29 - Compares the content of APKs, AABs, AARs, and JARs.
+* [diffuse](https://github.com/JakeWharton/diffuse) ⭐ 2,185 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-29 - Compares the content of APKs, AABs, AARs, and JARs.
 * [multidiff](https://github.com/juhakivekas/multidiff) ⭐ 309 | 🐛 5 | 🌐 Python | 📅 2023-02-12 - Utility to diff multiple binary objects or streams of data.
 * [VBinDiff](https://www.cjmweb.net/vbindiff/) - Side by side comparison of binary data in hex and ascii format.
 
@@ -95,4 +95,4 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](Cont
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
