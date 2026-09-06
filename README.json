@@ -21,7 +21,7 @@
                 "open_issues": 293,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25855,
+                "stars": 25858,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-04T09:21:06Z",
+                "last_commit": "2026-09-05T08:50:54Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -142,7 +142,7 @@
                 "open_issues": 434,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32082,
+                "stars": 32090,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -200,7 +200,7 @@
                 "open_issues": 25,
                 "owner": "jeffkaufman",
                 "repo": "icdiff",
-                "stars": 4385,
+                "stars": 4386,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
@@ -614,11 +614,11 @@
             "id": 48683075,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T22:06:51Z",
+            "last_commit": "2026-09-06T00:51:35Z",
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
-            "stars": 2186,
+            "stars": 2185,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:23:16.150Z",
+    "last_updated": "2026-09-06T01:19:26.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
