@@ -17,11 +17,11 @@
                 "id": 162276894,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-04T18:34:18Z",
+                "last_commit": "2026-09-06T22:12:18Z",
                 "open_issues": 293,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25858,
+                "stars": 25861,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-05T08:50:54Z",
+                "last_commit": "2026-09-06T09:10:22Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -139,10 +139,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-02T15:36:17Z",
-                "open_issues": 434,
+                "open_issues": 435,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32090,
+                "stars": 32101,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -169,7 +169,7 @@
                 "language": "Perl",
                 "license": "MIT",
                 "last_commit": "2026-08-31T03:11:08Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
                 "stars": 18089,
@@ -297,7 +297,7 @@
                 "open_issues": 14,
                 "owner": "mookid",
                 "repo": "diffr",
-                "stars": 614,
+                "stars": 615,
                 "topics": [
                   "code-review",
                   "console",
@@ -416,7 +416,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-31T19:44:22Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "homeport",
             "repo": "dyff",
             "stars": 1882,
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:19:26.955Z",
+    "last_updated": "2026-09-07T01:17:40.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
