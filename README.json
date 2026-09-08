@@ -21,7 +21,7 @@
                 "open_issues": 293,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25861,
+                "stars": 25863,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-06T09:10:22Z",
+                "last_commit": "2026-09-07T09:58:17Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -68,8 +68,8 @@
                 "id": 24182799,
                 "language": "Java",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-03T05:57:12Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-07T22:35:10Z",
+                "open_issues": 24,
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
                 "stars": 1334,
@@ -142,7 +142,7 @@
                 "open_issues": 435,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32101,
+                "stars": 32111,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 5,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18089,
+                "stars": 18090,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -359,7 +359,7 @@
             "id": 257655337,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-04T18:42:40Z",
+            "last_commit": "2026-09-07T23:13:28Z",
             "open_issues": 29,
             "owner": "trailofbits",
             "repo": "graphtage",
@@ -482,7 +482,7 @@
             "open_issues": 10,
             "owner": "bloomberg",
             "repo": "xcdiff",
-            "stars": 960,
+            "stars": 961,
             "topics": [
               "diff",
               "swift",
@@ -563,7 +563,7 @@
             "open_issues": 88,
             "owner": "djrobstep",
             "repo": "migra",
-            "stars": 3051,
+            "stars": 3052,
             "topics": [
               "developer-experience",
               "developer-tools",
@@ -614,7 +614,7 @@
             "id": 48683075,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T00:51:35Z",
+            "last_commit": "2026-09-07T17:23:25Z",
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:17:40.304Z",
+    "last_updated": "2026-09-08T01:22:59.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
