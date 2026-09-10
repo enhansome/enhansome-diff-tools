@@ -18,10 +18,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-08T08:52:10Z",
-                "open_issues": 291,
+                "open_issues": 292,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25867,
+                "stars": 25872,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-08T09:23:41Z",
+                "last_commit": "2026-09-09T09:25:08Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -142,7 +142,7 @@
                 "open_issues": 436,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32118,
+                "stars": 32133,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 5,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18089,
+                "stars": 18087,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -221,7 +221,7 @@
                 "open_issues": 13,
                 "owner": "banga",
                 "repo": "git-split-diffs",
-                "stars": 2743,
+                "stars": 2742,
                 "topics": [
                   "diffs",
                   "difftool",
@@ -359,11 +359,11 @@
             "id": 257655337,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-08T23:12:42Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-09T23:15:47Z",
+            "open_issues": 20,
             "owner": "trailofbits",
             "repo": "graphtage",
-            "stars": 2481,
+            "stars": 2482,
             "topics": [
               "command-line-tool",
               "diff",
@@ -393,7 +393,7 @@
             "open_issues": 20,
             "owner": "josephburnett",
             "repo": "jd",
-            "stars": 2298,
+            "stars": 2301,
             "topics": [
               "diff",
               "json",
@@ -419,7 +419,7 @@
             "open_issues": 70,
             "owner": "homeport",
             "repo": "dyff",
-            "stars": 1882,
+            "stars": 1881,
             "topics": [
               "bosh",
               "diff",
@@ -453,7 +453,7 @@
             "open_issues": 84,
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
-            "stars": 1096,
+            "stars": 1094,
             "topics": [
               "api",
               "diff",
@@ -563,7 +563,7 @@
             "open_issues": 88,
             "owner": "djrobstep",
             "repo": "migra",
-            "stars": 3051,
+            "stars": 3049,
             "topics": [
               "developer-experience",
               "developer-tools",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:30:46.066Z",
+    "last_updated": "2026-09-10T01:27:22.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
