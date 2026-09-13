@@ -18,10 +18,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-11T23:18:12Z",
-                "open_issues": 291,
+                "open_issues": 293,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25881,
+                "stars": 25887,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-11T09:22:56Z",
+                "last_commit": "2026-09-12T09:02:12Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -138,11 +138,11 @@
                 "id": 193526915,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-11T03:39:27Z",
+                "last_commit": "2026-09-12T19:18:44Z",
                 "open_issues": 439,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32154,
+                "stars": 32164,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 5,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18087,
+                "stars": 18088,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -200,7 +200,7 @@
                 "open_issues": 25,
                 "owner": "jeffkaufman",
                 "repo": "icdiff",
-                "stars": 4385,
+                "stars": 4384,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
@@ -360,7 +360,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-09T23:15:47Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "trailofbits",
             "repo": "graphtage",
             "stars": 2483,
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:32:07.561Z",
+    "last_updated": "2026-09-13T01:24:12.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
