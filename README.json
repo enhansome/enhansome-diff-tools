@@ -21,7 +21,7 @@
                 "open_issues": 291,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25903,
+                "stars": 25906,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-15T09:47:44Z",
+                "last_commit": "2026-09-16T22:15:44Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -142,7 +142,7 @@
                 "open_issues": 441,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32196,
+                "stars": 32209,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 5,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18089,
+                "stars": 18088,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -359,8 +359,8 @@
             "id": 257655337,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-15T23:16:04Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-16T18:57:54Z",
+            "open_issues": 20,
             "owner": "trailofbits",
             "repo": "graphtage",
             "stars": 2486,
@@ -393,7 +393,7 @@
             "open_issues": 20,
             "owner": "josephburnett",
             "repo": "jd",
-            "stars": 2302,
+            "stars": 2303,
             "topics": [
               "diff",
               "json",
@@ -614,7 +614,7 @@
             "id": 48683075,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T11:30:40Z",
+            "last_commit": "2026-09-17T00:05:43Z",
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:38:17.811Z",
+    "last_updated": "2026-09-17T01:41:01.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
