@@ -17,11 +17,11 @@
                 "id": 162276894,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-14T09:20:28Z",
-                "open_issues": 290,
+                "last_commit": "2026-09-18T22:02:13Z",
+                "open_issues": 288,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25912,
+                "stars": 25914,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-17T16:42:17Z",
+                "last_commit": "2026-09-18T09:24:27Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -139,10 +139,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-15T15:44:46Z",
-                "open_issues": 441,
+                "open_issues": 442,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32214,
+                "stars": 32230,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -197,10 +197,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-02-08T15:02:54Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "jeffkaufman",
                 "repo": "icdiff",
-                "stars": 4385,
+                "stars": 4386,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
@@ -221,7 +221,7 @@
                 "open_issues": 14,
                 "owner": "banga",
                 "repo": "git-split-diffs",
-                "stars": 2742,
+                "stars": 2743,
                 "topics": [
                   "diffs",
                   "difftool",
@@ -250,7 +250,7 @@
                 "open_issues": 1,
                 "owner": "ymattw",
                 "repo": "ydiff",
-                "stars": 933,
+                "stars": 934,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
@@ -416,7 +416,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-14T19:44:22Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "homeport",
             "repo": "dyff",
             "stars": 1882,
@@ -618,7 +618,7 @@
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
-            "stars": 2186,
+            "stars": 2187,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:27:36.933Z",
+    "last_updated": "2026-09-19T01:33:59.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
