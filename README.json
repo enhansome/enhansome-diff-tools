@@ -21,7 +21,7 @@
                 "open_issues": 288,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25914,
+                "stars": 25916,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-18T09:24:27Z",
+                "last_commit": "2026-09-19T09:12:30Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -138,11 +138,11 @@
                 "id": 193526915,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-15T15:44:46Z",
-                "open_issues": 442,
+                "last_commit": "2026-09-19T22:05:38Z",
+                "open_issues": 443,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32230,
+                "stars": 32243,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -168,11 +168,11 @@
                 "id": 51071818,
                 "language": "Perl",
                 "license": "MIT",
-                "last_commit": "2026-09-14T21:38:35Z",
+                "last_commit": "2026-09-19T20:49:24Z",
                 "open_issues": 5,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18088,
+                "stars": 18089,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -393,7 +393,7 @@
             "open_issues": 20,
             "owner": "josephburnett",
             "repo": "jd",
-            "stars": 2303,
+            "stars": 2304,
             "topics": [
               "diff",
               "json",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:33:59.508Z",
+    "last_updated": "2026-09-20T01:37:05.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
