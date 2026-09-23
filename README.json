@@ -17,11 +17,11 @@
                 "id": 162276894,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-18T22:02:13Z",
-                "open_issues": 289,
+                "last_commit": "2026-09-22T08:42:53Z",
+                "open_issues": 287,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25918,
+                "stars": 25923,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-21T10:25:40Z",
+                "last_commit": "2026-09-22T09:38:53Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -139,10 +139,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-19T22:05:38Z",
-                "open_issues": 446,
+                "open_issues": 447,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32294,
+                "stars": 32306,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -419,7 +419,7 @@
             "open_issues": 71,
             "owner": "homeport",
             "repo": "dyff",
-            "stars": 1883,
+            "stars": 1885,
             "topics": [
               "bosh",
               "diff",
@@ -478,8 +478,8 @@
             "id": 214506285,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-03-08T11:37:35Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-22T21:39:17Z",
+            "open_issues": 10,
             "owner": "bloomberg",
             "repo": "xcdiff",
             "stars": 962,
@@ -509,7 +509,7 @@
             "open_issues": 47,
             "owner": "paulfitz",
             "repo": "daff",
-            "stars": 924,
+            "stars": 925,
             "topics": [
               "comparing-tables",
               "csv",
@@ -563,7 +563,7 @@
             "open_issues": 88,
             "owner": "djrobstep",
             "repo": "migra",
-            "stars": 3048,
+            "stars": 3047,
             "topics": [
               "developer-experience",
               "developer-tools",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:51:14.870Z",
+    "last_updated": "2026-09-23T01:46:02.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
