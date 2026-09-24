@@ -21,7 +21,7 @@
                 "open_issues": 287,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25923,
+                "stars": 25924,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-22T09:38:53Z",
+                "last_commit": "2026-09-23T09:46:19Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -142,7 +142,7 @@
                 "open_issues": 447,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32306,
+                "stars": 32317,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 5,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18092,
+                "stars": 18094,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -221,7 +221,7 @@
                 "open_issues": 14,
                 "owner": "banga",
                 "repo": "git-split-diffs",
-                "stars": 2743,
+                "stars": 2742,
                 "topics": [
                   "diffs",
                   "difftool",
@@ -618,7 +618,7 @@
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
-            "stars": 2187,
+            "stars": 2188,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:46:02.677Z",
+    "last_updated": "2026-09-24T01:38:22.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
