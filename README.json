@@ -21,7 +21,7 @@
                 "open_issues": 289,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25936,
+                "stars": 25939,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-26T09:43:04Z",
+                "last_commit": "2026-09-27T10:22:52Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -142,7 +142,7 @@
                 "open_issues": 453,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32352,
+                "stars": 32359,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -363,7 +363,7 @@
             "open_issues": 22,
             "owner": "trailofbits",
             "repo": "graphtage",
-            "stars": 2486,
+            "stars": 2487,
             "topics": [
               "command-line-tool",
               "diff",
@@ -450,7 +450,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T08:43:46Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
             "stars": 1095,
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:46:08.124Z",
+    "last_updated": "2026-09-28T01:58:29.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
