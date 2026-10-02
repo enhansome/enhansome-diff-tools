@@ -21,7 +21,7 @@
                 "open_issues": 288,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25961,
+                "stars": 25962,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-30T10:55:32Z",
+                "last_commit": "2026-10-01T11:24:20Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -68,8 +68,8 @@
                 "id": 24182799,
                 "language": "Java",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-30T21:08:33Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-01T22:37:07Z",
+                "open_issues": 23,
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
                 "stars": 1336,
@@ -139,10 +139,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-19T22:05:38Z",
-                "open_issues": 458,
+                "open_issues": 465,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32389,
+                "stars": 32397,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 1,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18101,
+                "stars": 18102,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -250,7 +250,7 @@
                 "open_issues": 1,
                 "owner": "ymattw",
                 "repo": "ydiff",
-                "stars": 934,
+                "stars": 935,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
@@ -453,7 +453,7 @@
             "open_issues": 87,
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
-            "stars": 1096,
+            "stars": 1097,
             "topics": [
               "api",
               "diff",
@@ -614,7 +614,7 @@
             "id": 48683075,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T16:32:50Z",
+            "last_commit": "2026-10-01T16:28:42Z",
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:23:52.407Z",
+    "last_updated": "2026-10-02T02:33:57.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
