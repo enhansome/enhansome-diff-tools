@@ -17,11 +17,11 @@
                 "id": 162276894,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-22T08:42:53Z",
-                "open_issues": 288,
+                "last_commit": "2026-10-02T08:47:16Z",
+                "open_issues": 287,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25962,
+                "stars": 25966,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-01T11:24:20Z",
+                "last_commit": "2026-10-02T10:54:08Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -68,8 +68,8 @@
                 "id": 24182799,
                 "language": "Java",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-01T22:37:07Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-02T23:44:34Z",
+                "open_issues": 22,
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
                 "stars": 1336,
@@ -142,7 +142,7 @@
                 "open_issues": 465,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32397,
+                "stars": 32404,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -323,7 +323,7 @@
                 "open_issues": 4,
                 "owner": "walles",
                 "repo": "riff",
-                "stars": 527,
+                "stars": 528,
                 "topics": [
                   "console-color",
                   "console-tool",
@@ -509,7 +509,7 @@
             "open_issues": 47,
             "owner": "paulfitz",
             "repo": "daff",
-            "stars": 926,
+            "stars": 927,
             "topics": [
               "comparing-tables",
               "csv",
@@ -614,7 +614,7 @@
             "id": 48683075,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T16:28:42Z",
+            "last_commit": "2026-10-03T01:01:24Z",
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
@@ -639,7 +639,7 @@
             "open_issues": 5,
             "owner": "juhakivekas",
             "repo": "multidiff",
-            "stars": 310,
+            "stars": 311,
             "topics": [
               "diff",
               "diffing",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:33:57.173Z",
+    "last_updated": "2026-10-03T02:18:39.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
