@@ -21,7 +21,7 @@
                 "open_issues": 288,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25972,
+                "stars": 25977,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-03T10:14:21Z",
+                "last_commit": "2026-10-04T10:56:14Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -138,11 +138,11 @@
                 "id": 193526915,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-04T01:34:34Z",
-                "open_issues": 462,
+                "last_commit": "2026-10-05T00:51:13Z",
+                "open_issues": 464,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32411,
+                "stars": 32414,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -169,10 +169,10 @@
                 "language": "Perl",
                 "license": "MIT",
                 "last_commit": "2026-10-03T20:48:04Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18101,
+                "stars": 18102,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -563,7 +563,7 @@
             "open_issues": 88,
             "owner": "djrobstep",
             "repo": "migra",
-            "stars": 3047,
+            "stars": 3046,
             "topics": [
               "developer-experience",
               "developer-tools",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:51:15.447Z",
+    "last_updated": "2026-10-05T02:23:11.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
