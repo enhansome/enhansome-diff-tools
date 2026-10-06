@@ -21,7 +21,7 @@
                 "open_issues": 288,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25981,
+                "stars": 25984,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -139,10 +139,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-05T02:41:24Z",
-                "open_issues": 463,
+                "open_issues": 464,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32421,
+                "stars": 32425,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -250,7 +250,7 @@
                 "open_issues": 1,
                 "owner": "ymattw",
                 "repo": "ydiff",
-                "stars": 935,
+                "stars": 936,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T03:19:22.375Z",
+    "last_updated": "2026-10-06T11:07:56.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
