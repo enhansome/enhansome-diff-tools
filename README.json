@@ -17,11 +17,11 @@
                 "id": 162276894,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-12T00:00:10Z",
-                "open_issues": 287,
+                "last_commit": "2026-10-12T09:23:17Z",
+                "open_issues": 288,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 25999,
+                "stars": 26004,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,11 +41,11 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-11T11:15:18Z",
+                "last_commit": "2026-10-12T12:47:59Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
-                "stars": 2406,
+                "stars": 2405,
                 "topics": [
                   "ast",
                   "diff",
@@ -68,7 +68,7 @@
                 "id": 24182799,
                 "language": "Java",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-10T14:28:22Z",
+                "last_commit": "2026-10-12T03:13:49Z",
                 "open_issues": 10,
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
@@ -139,10 +139,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-10T22:37:00Z",
-                "open_issues": 467,
+                "open_issues": 470,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32482,
+                "stars": 32488,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -363,7 +363,7 @@
             "open_issues": 24,
             "owner": "trailofbits",
             "repo": "graphtage",
-            "stars": 2488,
+            "stars": 2489,
             "topics": [
               "command-line-tool",
               "diff",
@@ -393,7 +393,7 @@
             "open_issues": 20,
             "owner": "josephburnett",
             "repo": "jd",
-            "stars": 2307,
+            "stars": 2308,
             "topics": [
               "diff",
               "json",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:38:32.725Z",
+    "last_updated": "2026-10-13T03:51:16.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
@@ -669,7 +669,7 @@
       "open_issues": 5,
       "owner": "mmueller2012",
       "repo": "awesome-diff-tools",
-      "stars": 108,
+      "stars": 109,
       "topics": [
         "awesome",
         "awesome-list",
