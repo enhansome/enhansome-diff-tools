@@ -17,11 +17,11 @@
                 "id": 162276894,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-14T23:25:44Z",
-                "open_issues": 293,
+                "last_commit": "2026-10-15T21:07:32Z",
+                "open_issues": 282,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26016,
+                "stars": 26023,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-14T09:56:12Z",
+                "last_commit": "2026-10-15T09:37:58Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -139,10 +139,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-10T22:37:00Z",
-                "open_issues": 469,
+                "open_issues": 474,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32492,
+                "stars": 32506,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -168,11 +168,11 @@
                 "id": 51071818,
                 "language": "Perl",
                 "license": "MIT",
-                "last_commit": "2026-10-06T00:10:34Z",
+                "last_commit": "2026-10-15T22:58:33Z",
                 "open_issues": 1,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18106,
+                "stars": 18105,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -419,7 +419,7 @@
             "open_issues": 72,
             "owner": "homeport",
             "repo": "dyff",
-            "stars": 1890,
+            "stars": 1894,
             "topics": [
               "bosh",
               "diff",
@@ -614,7 +614,7 @@
             "id": 48683075,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T18:46:20Z",
+            "last_commit": "2026-10-16T00:48:59Z",
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:49:28.821Z",
+    "last_updated": "2026-10-16T01:38:25.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
@@ -669,7 +669,7 @@
       "open_issues": 5,
       "owner": "mmueller2012",
       "repo": "awesome-diff-tools",
-      "stars": 109,
+      "stars": 110,
       "topics": [
         "awesome",
         "awesome-list",
