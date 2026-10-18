@@ -18,10 +18,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-16T23:52:20Z",
-                "open_issues": 280,
+                "open_issues": 279,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26028,
+                "stars": 26026,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,11 +41,11 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-16T09:31:13Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-17T09:01:52Z",
+                "open_issues": 35,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
-                "stars": 2406,
+                "stars": 2407,
                 "topics": [
                   "ast",
                   "diff",
@@ -68,11 +68,11 @@
                 "id": 24182799,
                 "language": "Java",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-16T22:33:22Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-17T09:52:53Z",
+                "open_issues": 10,
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
-                "stars": 1339,
+                "stars": 1340,
                 "topics": [
                   "abstract-syntax-tree",
                   "diff",
@@ -138,11 +138,11 @@
                 "id": 193526915,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-10T22:37:00Z",
-                "open_issues": 477,
+                "last_commit": "2026-10-17T02:58:19Z",
+                "open_issues": 482,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32515,
+                "stars": 32522,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -221,7 +221,7 @@
                 "open_issues": 14,
                 "owner": "banga",
                 "repo": "git-split-diffs",
-                "stars": 2745,
+                "stars": 2744,
                 "topics": [
                   "diffs",
                   "difftool",
@@ -453,7 +453,7 @@
             "open_issues": 87,
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
-            "stars": 1097,
+            "stars": 1098,
             "topics": [
               "api",
               "diff",
@@ -532,7 +532,7 @@
             "id": 86617171,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-13T20:39:46Z",
+            "last_commit": "2026-10-17T04:15:17Z",
             "open_issues": 4,
             "owner": "josephfrazier",
             "repo": "prettier-diff",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:31:35.922Z",
+    "last_updated": "2026-10-18T01:30:40.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
