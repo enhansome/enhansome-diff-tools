@@ -18,10 +18,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-16T23:52:20Z",
-                "open_issues": 279,
+                "open_issues": 281,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26026,
+                "stars": 26030,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-17T09:01:52Z",
+                "last_commit": "2026-10-18T09:21:00Z",
                 "open_issues": 35,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -139,10 +139,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-17T02:58:19Z",
-                "open_issues": 482,
+                "open_issues": 490,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32522,
+                "stars": 32529,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -168,7 +168,7 @@
                 "id": 51071818,
                 "language": "Perl",
                 "license": "MIT",
-                "last_commit": "2026-10-15T22:58:33Z",
+                "last_commit": "2026-10-18T18:29:14Z",
                 "open_issues": 1,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
@@ -419,7 +419,7 @@
             "open_issues": 72,
             "owner": "homeport",
             "repo": "dyff",
-            "stars": 1897,
+            "stars": 1898,
             "topics": [
               "bosh",
               "diff",
@@ -509,7 +509,7 @@
             "open_issues": 47,
             "owner": "paulfitz",
             "repo": "daff",
-            "stars": 929,
+            "stars": 930,
             "topics": [
               "comparing-tables",
               "csv",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:30:40.343Z",
+    "last_updated": "2026-10-19T01:39:51.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
