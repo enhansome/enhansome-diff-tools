@@ -18,10 +18,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-16T23:52:20Z",
-                "open_issues": 283,
+                "open_issues": 282,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26035,
+                "stars": 26040,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-19T10:32:23Z",
+                "last_commit": "2026-10-20T09:49:15Z",
                 "open_issues": 35,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -72,7 +72,7 @@
                 "open_issues": 10,
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
-                "stars": 1341,
+                "stars": 1342,
                 "topics": [
                   "abstract-syntax-tree",
                   "diff",
@@ -142,7 +142,7 @@
                 "open_issues": 492,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32536,
+                "stars": 32547,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 1,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18104,
+                "stars": 18105,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T02:03:56.658Z",
+    "last_updated": "2026-10-21T01:59:54.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
@@ -666,7 +666,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-06T22:30:41Z",
-      "open_issues": 5,
+      "open_issues": 7,
       "owner": "mmueller2012",
       "repo": "awesome-diff-tools",
       "stars": 110,
