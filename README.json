@@ -21,7 +21,7 @@
                 "open_issues": 282,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26044,
+                "stars": 26049,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,11 +41,11 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-21T09:51:03Z",
-                "open_issues": 35,
+                "last_commit": "2026-10-22T09:51:39Z",
+                "open_issues": 36,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
-                "stars": 2407,
+                "stars": 2408,
                 "topics": [
                   "ast",
                   "diff",
@@ -68,11 +68,11 @@
                 "id": 24182799,
                 "language": "Java",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-21T22:33:24Z",
+                "last_commit": "2026-10-22T22:34:02Z",
                 "open_issues": 11,
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
-                "stars": 1342,
+                "stars": 1341,
                 "topics": [
                   "abstract-syntax-tree",
                   "diff",
@@ -142,7 +142,7 @@
                 "open_issues": 491,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32551,
+                "stars": 32560,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -393,7 +393,7 @@
             "open_issues": 20,
             "owner": "josephburnett",
             "repo": "jd",
-            "stars": 2309,
+            "stars": 2308,
             "topics": [
               "diff",
               "json",
@@ -563,7 +563,7 @@
             "open_issues": 88,
             "owner": "djrobstep",
             "repo": "migra",
-            "stars": 3047,
+            "stars": 3048,
             "topics": [
               "developer-experience",
               "developer-tools",
@@ -614,7 +614,7 @@
             "id": 48683075,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T22:05:49Z",
+            "last_commit": "2026-10-23T01:20:06Z",
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T01:50:21.276Z",
+    "last_updated": "2026-10-23T01:56:15.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
