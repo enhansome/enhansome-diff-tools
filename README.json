@@ -18,10 +18,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-26T23:21:21Z",
-                "open_issues": 282,
+                "open_issues": 284,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26069,
+                "stars": 26074,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,11 +41,11 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-27T10:13:27Z",
+                "last_commit": "2026-10-28T11:00:44Z",
                 "open_issues": 36,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
-                "stars": 2407,
+                "stars": 2406,
                 "topics": [
                   "ast",
                   "diff",
@@ -68,8 +68,8 @@
                 "id": 24182799,
                 "language": "Java",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-27T22:34:15Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-28T13:35:47Z",
+                "open_issues": 10,
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
                 "stars": 1341,
@@ -138,11 +138,11 @@
                 "id": 193526915,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-28T02:20:25Z",
-                "open_issues": 496,
+                "last_commit": "2026-10-28T02:45:33Z",
+                "open_issues": 495,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32595,
+                "stars": 32603,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 2,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18103,
+                "stars": 18104,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -200,7 +200,7 @@
                 "open_issues": 27,
                 "owner": "jeffkaufman",
                 "repo": "icdiff",
-                "stars": 4392,
+                "stars": 4393,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:12.918Z"
@@ -221,7 +221,7 @@
                 "open_issues": 14,
                 "owner": "banga",
                 "repo": "git-split-diffs",
-                "stars": 2743,
+                "stars": 2744,
                 "topics": [
                   "diffs",
                   "difftool",
@@ -363,7 +363,7 @@
             "open_issues": 22,
             "owner": "trailofbits",
             "repo": "graphtage",
-            "stars": 2494,
+            "stars": 2495,
             "topics": [
               "command-line-tool",
               "diff",
@@ -415,7 +415,7 @@
             "id": 124592092,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-14T02:08:44Z",
+            "last_commit": "2026-10-28T19:44:34Z",
             "open_issues": 73,
             "owner": "homeport",
             "repo": "dyff",
@@ -509,7 +509,7 @@
             "open_issues": 47,
             "owner": "paulfitz",
             "repo": "daff",
-            "stars": 931,
+            "stars": 932,
             "topics": [
               "comparing-tables",
               "csv",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:34:17.218Z",
+    "last_updated": "2026-10-29T02:50:31.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
