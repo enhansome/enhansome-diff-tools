@@ -17,11 +17,11 @@
                 "id": 162276894,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-26T23:21:21Z",
-                "open_issues": 284,
+                "last_commit": "2026-10-29T21:23:12Z",
+                "open_issues": 288,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26074,
+                "stars": 26095,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-28T11:00:44Z",
+                "last_commit": "2026-10-29T11:19:07Z",
                 "open_issues": 36,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -139,10 +139,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-28T02:45:33Z",
-                "open_issues": 495,
+                "open_issues": 496,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32603,
+                "stars": 32606,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -450,7 +450,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T08:52:08Z",
-            "open_issues": 88,
+            "open_issues": 89,
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
             "stars": 1099,
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:50:31.091Z",
+    "last_updated": "2026-10-30T02:56:20.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
