@@ -18,10 +18,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-30T18:42:55Z",
-                "open_issues": 287,
+                "open_issues": 286,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26113,
+                "stars": 26118,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,11 +41,11 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-30T11:11:33Z",
+                "last_commit": "2026-10-31T10:44:26Z",
                 "open_issues": 36,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
-                "stars": 2406,
+                "stars": 2407,
                 "topics": [
                   "ast",
                   "diff",
@@ -139,10 +139,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-28T02:45:33Z",
-                "open_issues": 496,
+                "open_issues": 497,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32615,
+                "stars": 32620,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 2,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18105,
+                "stars": 18106,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -297,7 +297,7 @@
                 "open_issues": 14,
                 "owner": "mookid",
                 "repo": "diffr",
-                "stars": 619,
+                "stars": 620,
                 "topics": [
                   "code-review",
                   "console",
@@ -509,7 +509,7 @@
             "open_issues": 47,
             "owner": "paulfitz",
             "repo": "daff",
-            "stars": 932,
+            "stars": 931,
             "topics": [
               "comparing-tables",
               "csv",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:42:16.766Z",
+    "last_updated": "2026-11-01T02:33:03.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
