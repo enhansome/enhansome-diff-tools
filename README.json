@@ -17,11 +17,11 @@
                 "id": 162276894,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-30T18:42:55Z",
+                "last_commit": "2026-11-02T00:02:38Z",
                 "open_issues": 286,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26118,
+                "stars": 26127,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,11 +41,11 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-31T10:44:26Z",
+                "last_commit": "2026-11-01T11:41:48Z",
                 "open_issues": 36,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
-                "stars": 2407,
+                "stars": 2408,
                 "topics": [
                   "ast",
                   "diff",
@@ -142,7 +142,7 @@
                 "open_issues": 497,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32620,
+                "stars": 32626,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 2,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18106,
+                "stars": 18107,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -419,7 +419,7 @@
             "open_issues": 72,
             "owner": "homeport",
             "repo": "dyff",
-            "stars": 1901,
+            "stars": 1902,
             "topics": [
               "bosh",
               "diff",
@@ -482,7 +482,7 @@
             "open_issues": 10,
             "owner": "bloomberg",
             "repo": "xcdiff",
-            "stars": 960,
+            "stars": 961,
             "topics": [
               "diff",
               "swift",
@@ -639,7 +639,7 @@
             "open_issues": 5,
             "owner": "juhakivekas",
             "repo": "multidiff",
-            "stars": 311,
+            "stars": 309,
             "topics": [
               "diff",
               "diffing",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:33:03.431Z",
+    "last_updated": "2026-11-02T02:43:44.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
