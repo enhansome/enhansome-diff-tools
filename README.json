@@ -21,7 +21,7 @@
                 "open_issues": 285,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26160,
+                "stars": 26162,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-07T11:32:07Z",
+                "last_commit": "2026-11-08T11:44:04Z",
                 "open_issues": 36,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -138,11 +138,11 @@
                 "id": 193526915,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-28T02:45:33Z",
-                "open_issues": 504,
+                "last_commit": "2026-11-08T19:24:22Z",
+                "open_issues": 501,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32687,
+                "stars": 32695,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 2,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18107,
+                "stars": 18106,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -221,7 +221,7 @@
                 "open_issues": 17,
                 "owner": "banga",
                 "repo": "git-split-diffs",
-                "stars": 2745,
+                "stars": 2746,
                 "topics": [
                   "diffs",
                   "difftool",
@@ -323,7 +323,7 @@
                 "open_issues": 4,
                 "owner": "walles",
                 "repo": "riff",
-                "stars": 530,
+                "stars": 531,
                 "topics": [
                   "console-color",
                   "console-tool",
@@ -450,7 +450,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T08:52:08Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
             "stars": 1100,
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:41:39.595Z",
+    "last_updated": "2026-11-09T02:57:40.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
@@ -669,7 +669,7 @@
       "open_issues": 8,
       "owner": "mmueller2012",
       "repo": "awesome-diff-tools",
-      "stars": 111,
+      "stars": 112,
       "topics": [
         "awesome",
         "awesome-list",
