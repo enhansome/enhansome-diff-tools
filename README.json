@@ -21,7 +21,7 @@
                 "open_issues": 285,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26162,
+                "stars": 26168,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,11 +41,11 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-08T11:44:04Z",
+                "last_commit": "2026-11-09T13:39:05Z",
                 "open_issues": 36,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
-                "stars": 2408,
+                "stars": 2409,
                 "topics": [
                   "ast",
                   "diff",
@@ -68,11 +68,11 @@
                 "id": 24182799,
                 "language": "Java",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-07T08:12:54Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-09T22:35:05Z",
+                "open_issues": 13,
                 "owner": "GumTreeDiff",
                 "repo": "gumtree",
-                "stars": 1340,
+                "stars": 1341,
                 "topics": [
                   "abstract-syntax-tree",
                   "diff",
@@ -138,11 +138,11 @@
                 "id": 193526915,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-08T19:24:22Z",
+                "last_commit": "2026-11-10T04:14:39Z",
                 "open_issues": 501,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32695,
+                "stars": 32703,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 2,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18106,
+                "stars": 18111,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -323,7 +323,7 @@
                 "open_issues": 4,
                 "owner": "walles",
                 "repo": "riff",
-                "stars": 531,
+                "stars": 532,
                 "topics": [
                   "console-color",
                   "console-tool",
@@ -360,10 +360,10 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-11-05T23:15:25Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "trailofbits",
             "repo": "graphtage",
-            "stars": 2493,
+            "stars": 2494,
             "topics": [
               "command-line-tool",
               "diff",
@@ -393,7 +393,7 @@
             "open_issues": 20,
             "owner": "josephburnett",
             "repo": "jd",
-            "stars": 2306,
+            "stars": 2307,
             "topics": [
               "diff",
               "json",
@@ -415,7 +415,7 @@
             "id": 124592092,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-06T19:45:18Z",
+            "last_commit": "2026-11-09T19:44:17Z",
             "open_issues": 73,
             "owner": "homeport",
             "repo": "dyff",
@@ -449,7 +449,7 @@
             "id": 113924383,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T08:52:08Z",
+            "last_commit": "2026-11-09T08:42:34Z",
             "open_issues": 92,
             "owner": "OpenAPITools",
             "repo": "openapi-diff",
@@ -614,11 +614,11 @@
             "id": 48683075,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T19:23:28Z",
+            "last_commit": "2026-11-10T03:43:06Z",
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
-            "stars": 2191,
+            "stars": 2190,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:57:40.745Z",
+    "last_updated": "2026-11-10T04:47:06.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
