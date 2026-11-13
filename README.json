@@ -21,7 +21,7 @@
                 "open_issues": 286,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26190,
+                "stars": 26198,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,11 +41,11 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-11T12:27:18Z",
+                "last_commit": "2026-11-12T13:32:43Z",
                 "open_issues": 36,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
-                "stars": 2409,
+                "stars": 2410,
                 "topics": [
                   "ast",
                   "diff",
@@ -138,11 +138,11 @@
                 "id": 193526915,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-12T00:22:39Z",
-                "open_issues": 499,
+                "last_commit": "2026-11-12T23:56:04Z",
+                "open_issues": 500,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32727,
+                "stars": 32738,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -172,7 +172,7 @@
                 "open_issues": 2,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18116,
+                "stars": 18118,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -393,7 +393,7 @@
             "open_issues": 20,
             "owner": "josephburnett",
             "repo": "jd",
-            "stars": 2306,
+            "stars": 2307,
             "topics": [
               "diff",
               "json",
@@ -415,7 +415,7 @@
             "id": 124592092,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-10T19:43:58Z",
+            "last_commit": "2026-11-12T19:47:50Z",
             "open_issues": 73,
             "owner": "homeport",
             "repo": "dyff",
@@ -614,7 +614,7 @@
             "id": 48683075,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T00:50:05Z",
+            "last_commit": "2026-11-12T18:53:17Z",
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T04:12:53.569Z",
+    "last_updated": "2026-11-13T03:34:24.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
