@@ -18,10 +18,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-11-19T00:18:40Z",
-                "open_issues": 290,
+                "open_issues": 291,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26256,
+                "stars": 26269,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-24T15:33:34Z",
+                "last_commit": "2026-11-25T15:18:55Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -138,11 +138,11 @@
                 "id": 193526915,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-25T00:29:08Z",
+                "last_commit": "2026-11-25T22:33:52Z",
                 "open_issues": 502,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32827,
+                "stars": 32837,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -173,7 +173,7 @@
                 "open_issues": 3,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18124,
+                "stars": 18127,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -198,7 +198,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-02-08T15:02:54Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "jeffkaufman",
                 "repo": "icdiff",
                 "stars": 4396,
@@ -417,7 +417,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-20T19:44:23Z",
-            "open_issues": 75,
+            "open_issues": 76,
             "owner": "homeport",
             "repo": "dyff",
             "stars": 1908,
@@ -510,7 +510,7 @@
             "open_issues": 47,
             "owner": "paulfitz",
             "repo": "daff",
-            "stars": 933,
+            "stars": 934,
             "topics": [
               "comparing-tables",
               "csv",
@@ -619,7 +619,7 @@
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
-            "stars": 2190,
+            "stars": 2191,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:12.918Z"
@@ -658,7 +658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:39:52.956Z",
+    "last_updated": "2026-11-26T05:26:29.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
