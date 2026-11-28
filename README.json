@@ -21,7 +21,7 @@
                 "open_issues": 291,
                 "owner": "Wilfred",
                 "repo": "difftastic",
-                "stars": 26274,
+                "stars": 26280,
                 "topics": [
                   "diff",
                   "tree-sitter"
@@ -41,7 +41,7 @@
                 "id": 275508429,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-26T14:45:31Z",
+                "last_commit": "2026-11-27T14:44:16Z",
                 "open_issues": 34,
                 "owner": "afnanenayet",
                 "repo": "diffsitter",
@@ -138,11 +138,11 @@
                 "id": 193526915,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-25T22:33:52Z",
-                "open_issues": 506,
+                "last_commit": "2026-11-27T20:53:21Z",
+                "open_issues": 507,
                 "owner": "dandavison",
                 "repo": "delta",
-                "stars": 32859,
+                "stars": 32888,
                 "topics": [
                   "color-themes",
                   "delta",
@@ -173,7 +173,7 @@
                 "open_issues": 3,
                 "owner": "so-fancy",
                 "repo": "diff-so-fancy",
-                "stars": 18127,
+                "stars": 18129,
                 "topics": [
                   "diff",
                   "diff-highlight",
@@ -564,7 +564,7 @@
             "open_issues": 88,
             "owner": "djrobstep",
             "repo": "migra",
-            "stars": 3046,
+            "stars": 3045,
             "topics": [
               "developer-experience",
               "developer-tools",
@@ -615,7 +615,7 @@
             "id": 48683075,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T04:47:01Z",
+            "last_commit": "2026-11-28T04:07:34Z",
             "open_issues": 27,
             "owner": "JakeWharton",
             "repo": "diffuse",
@@ -658,7 +658,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T05:20:00.972Z",
+    "last_updated": "2026-11-28T04:56:40.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome tools that show differences between files and folders.",
